@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+data/users.json
+data/sessions.json
+data/machines.json
+*.tmp
